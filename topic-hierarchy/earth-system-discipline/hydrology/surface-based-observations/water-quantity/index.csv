@@ -1,0 +1,12 @@
+Name,Description
+level-snow,Snow level
+level-stream,Stream level
+flow-stream,Stream flow
+volume-lake,Lake volume
+level-lake,Lake level
+volume-canal,Canal volume
+level-canal,Canal level
+suspended-load-transport,Suspended load transport
+volume-reservoir,Resevoir volume
+level-undefined,Undefined level
+water-level,Water level
